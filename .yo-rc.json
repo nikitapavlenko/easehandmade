@@ -1,0 +1,20 @@
+{
+  "generator-jhipster": {
+    "baseName": "easehandmade",
+    "packageName": "ua.nure.pavlenko",
+    "packageFolder": "ua/nure/pavlenko",
+    "authenticationType": "xauth",
+    "hibernateCache": "no",
+    "clusteredHttpSession": "no",
+    "websocket": "no",
+    "databaseType": "mongodb",
+    "devDatabaseType": "mongodb",
+    "prodDatabaseType": "mongodb",
+    "searchEngine": "no",
+    "useCompass": false,
+    "buildTool": "maven",
+    "frontendBuilder": "grunt",
+    "javaVersion": "8",
+    "rememberMeKey": "2710c9f3ff3a9aeed31f5283bab4f44a6f8fbfe9"
+  }
+}
